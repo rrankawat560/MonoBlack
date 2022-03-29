@@ -1,7 +1,10 @@
 # 
 ## "MonoBlack" Theme for VS Code : 
 
-- ![Screenshot1]()
+- ![Screenshot1](https://github.com/rrankawat560/MonoBlack/blob/main/images/screenshots/Screenshot%20(21).png)
+
+- ![Screenshot2](https://github.com/rrankawat560/MonoBlack/blob/main/images/screenshots/Screenshot%20(22).png)
+
 ## "MonoBlack"
 This theme is White on Black theme. Here editor's background is matte black color and the code mostly in white in color. In this theme ther is only two main colors Black and White.
 
