@@ -11,6 +11,11 @@
     "engines": {
         "vscode": "^1.54.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rrankawat560/MonoBlack"
+    },
+    "icon": "images/logo/logo_256.jpg",
     "galleryBanner": {
         "color": "#000000",
         "theme": "dark"
