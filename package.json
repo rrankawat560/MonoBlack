@@ -1,0 +1,38 @@
+{
+    "name": "mono_black",
+    "displayName": "MonoBlack",
+    "description": "This is white on black theme. Thed whole editor background is black color and code is of mainly white color. Somewhere may be different colors",
+    "publisher": "RR Group",
+    "author": {
+        "name": "Rajveer Rankawat",
+        "email": "r.rankawat560@gmail.com"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "RR Group Theme",
+        "Dark Theme",
+        "White",
+        "Black",
+        "White on Black",
+        "Black and White"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MonoBlack",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonoBlack-color-theme.json"
+            }
+        ]
+    }
+}
