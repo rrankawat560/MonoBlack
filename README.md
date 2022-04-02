@@ -20,7 +20,7 @@ This theme is made for who loves black color most with having white text/code.
 **The official source code link of this theme :
  [Github](https://github.com/rrankawat560/MonoBlack)**
 
-### *Rajveer Rankawat*~
+### [*Rajveer Rankawat*](https://www.instagram.com/rankawat_189/) ~ 
 Thanks for checking out my theme. I recently use this theme for my development and project purpose.
 
 
