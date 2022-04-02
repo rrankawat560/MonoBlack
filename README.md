@@ -1,11 +1,16 @@
 # 
-## "MonoBlack" Theme for VS Code : 
+## "MonoWhite" Theme for VS Code : 
 
-- ![Screenshot1](https://github.com/rrankawat560/MonoBlack/blob/main/images/screenshots/Screenshot%20(21).png)
+This is screenshot 1
 
-- ![Screenshot2](https://github.com/rrankawat560/MonoBlack/blob/main/images/screenshots/Screenshot%20(22).png)
+![Image](/images/screenshots/Screenshot%20(21).png)
 
-## "MonoBlack"
+This is screenshot 2
+ ![Image](/images/screenshots/Screenshot%20(22).png)
+
+
+
+## "MonoWhite"
 This theme is White on Black theme. Here editor's background is matte black color and the code mostly in white in color. In this theme ther is only two main colors Black and White.
 
 This theme is made for who loves black color most with having white text/code.
