@@ -7,7 +7,7 @@
         "name": "Rajveer Rankawat",
         "email": "r.rankawat560@gmail.com"
     },
-    "version": "1.2.9",
+    "version": "1.3.1",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -37,7 +37,7 @@
             {
                 "label": "MonoWhite",
                 "uiTheme": "vs-dark",
-                "path": "./themes/MonoBlack-color-theme.json"
+                "path": "./themes/MonoWhite-color-theme.json"
             }
         ]
     }
